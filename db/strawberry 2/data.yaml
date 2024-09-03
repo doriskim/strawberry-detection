@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['ripe']
+
+roboflow:
+  workspace: workspace-dgj8p
+  project: strawberry-2-m8tki
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/workspace-dgj8p/strawberry-2-m8tki/dataset/1

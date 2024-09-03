@@ -1,0 +1,13 @@
+names:
+- ripe
+- unripe
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: strawberry-azb3a
+  url: https://universe.roboflow.com/workspace-dgj8p/strawberry-azb3a/dataset/1
+  version: 1
+  workspace: workspace-dgj8p
+test: /Users/doeunkim/PycharmProjects/strawberry/db/strawberry/test/images
+train: /Users/doeunkim/PycharmProjects/strawberry/db/strawberry/train/images
+val: /Users/doeunkim/PycharmProjects/strawberry/db/strawberry/valid/images
